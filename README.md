@@ -1,0 +1,3 @@
+This project consists of  HTML, CSS, and JavaScript for the time being.
+It is a project in progress.....
+The goal is to build a personal portfolio page that includes resume and samples of work.
